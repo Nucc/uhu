@@ -3,6 +3,7 @@
 require 'terminfo'
 require 'awesome_print'
 require 'json'
+require 'thread'
 
 colors = ["31", "32", "33", "34", "38"]
 
